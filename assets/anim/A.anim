@@ -1,0 +1,179 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "A",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -11,
+                141
+              ],
+              "motionPath": [
+                [
+                  -59,
+                  16,
+                  -34,
+                  80,
+                  -86,
+                  -56
+                ]
+              ]
+            },
+            {
+              "frame": 2.0166666666666666,
+              "value": [
+                -115,
+                -132
+              ],
+              "motionPath": []
+            }
+          ]
+        }
+      },
+      "2": {
+        "props": {
+          "position": [
+            {
+              "frame": 2,
+              "value": [
+                3,
+                140
+              ],
+              "motionPath": [
+                [
+                  62,
+                  -7,
+                  33,
+                  64,
+                  87,
+                  -71
+                ]
+              ]
+            },
+            {
+              "frame": 4,
+              "value": [
+                111,
+                -131
+              ],
+              "motionPath": []
+            }
+          ]
+        }
+      },
+      "3": {
+        "props": {
+          "position": [
+            {
+              "frame": 4,
+              "value": [
+                -73,
+                -35
+              ],
+              "motionPath": [
+                [
+                  -2,
+                  -35,
+                  -37,
+                  -35,
+                  35,
+                  -35
+                ]
+              ]
+            },
+            {
+              "frame": 5,
+              "value": [
+                72,
+                -35
+              ],
+              "motionPath": []
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 2,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 2,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 2,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 4,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 4,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 4,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 4,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 4,
+      "func": "",
+      "params": []
+    }
+  ]
+}
